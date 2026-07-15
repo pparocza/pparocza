@@ -30,7 +30,7 @@ Technical Audio Design for real-time 3d VR, XR, AR, and online multiplayer exper
 - [AudioAsset] Unity Package [Video Demo](#Audio-Asset-Reel-1)
 
 ### Stack
-C#, C++, Python, Unity, Reaper
+C#, C++, Python, Unity, Unreal, Wwise, FMOD
 
 ## Interactive and Generative Audio
 
