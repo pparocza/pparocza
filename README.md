@@ -15,7 +15,7 @@
 
 ## Infinite Sibling
 
-Node package of custom audio tools built with the Web Audio API ([Reel](#Infinite-Sibling-Reel), [Repo](https://github.com/pparocza/infinite_sibling))
+Node package of custom audio tools built with the Web Audio API ([Reel](#Infinite-Sibling-2), [Repo](https://github.com/pparocza/infinite_sibling))
 
 #### Stack
 - Javascript, Rust, WASM
@@ -54,7 +54,7 @@ Technical Audio Design for real-time 3d VR, XR, AR, and online multiplayer exper
 
 # Reels
 
-### Infinite Sibling Reel
+### Infinite Sibling
 
 <video src="https://github.com/user-attachments/assets/f8dd9000-272d-4051-8afa-641bf3fb1880" width="200" controls></video>
 
