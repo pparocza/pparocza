@@ -40,7 +40,7 @@ C#, C++, Python, Unity, Reaper
 - [Ghost in the Machine](#Ghost-In-The-Machine-1)
   
 ### Stack
-- TouchDesigner, Python, MAX/MSP, Max for Live
+TouchDesigner, Python, MAX/MSP, Max for Live
 
 ### Other
 
