@@ -17,8 +17,8 @@
 
 Node package of custom audio tools built with the Web Audio API ([Video Demo](#Infinite-Sibling-1), [Repo](https://github.com/pparocza/infinite_sibling))
 
-#### Stack
-- Javascript, Rust, WASM
+### Stack
+Javascript, Rust, WASM, Web Audio API, Three.js
 
 ## Game Development
 
@@ -27,21 +27,19 @@ Technical Audio Design for real-time 3d VR, XR, AR, and online multiplayer exper
 - [AbyssVault](https://hololabs.studio/projects/abyss-vault/)
   - VRLBE game released on Meta Quest, PICO, and HTC Vive headsets
   - Technical Audio Design, Audio Design, and Interactive Music System
-- [AudioAsset] Unity Package [Reel](##Audio-Asset-Reel)
+- [AudioAsset] Unity Package [Video Demo](#Audio-Asset-Reel-1)
 
-#### Stack
-- C#, C++, Python, Unity, Reaper
+### Stack
+C#, C++, Python, Unity, Reaper
 
 ## Interactive and Generative Audio
 
-- 
-
-- [Max for Live Generative Music Engine](#Max-for-Live-Generative-Music-Engine-Reel)
-- [Foxconn Frequency No. 3](#Foxconn-Frequency-No.-3-Reels)
-- [New Notations]
-- [Ghost in the Machine]
+- [Foxconn Frequency No. 3](#Foxconn-Frequency-No.-3-1)
+- [New Notations](#New-Notations-1)
+- [Max for Live Generative Music Engine](#Max-for-Live-Generative-Music-Engine-1)
+- [Ghost in the Machine](#Ghost-In-The-Machine-1)
   
-#### Stack
+### Stack
 - TouchDesigner, Python, MAX/MSP, Max for Live
 
 ### Other
@@ -56,33 +54,28 @@ Technical Audio Design for real-time 3d VR, XR, AR, and online multiplayer exper
 
 ### Infinite Sibling
 
-<video src="https://github.com/user-attachments/assets/f8dd9000-272d-4051-8afa-641bf3fb1880" width="200" controls></video>
+https://github.com/user-attachments/assets/f8dd9000-272d-4051-8afa-641bf3fb1880
 
-### Audio Asset Reel
+### Audio Asset
 
-<video src="[https://github.com/user-attachments/assets/f8dd9000-272d-4051-8afa-641bf3fb1880](https://player.vimeo.com/video/362167879?h=666d342063)" width="200" controls></video>
-
-### Interactive Generative Audio Reels
-
-### Max for Live Generative Music Engine Reel
-
-### Foxconn Frequency No. 3 Reels
+### Foxconn Frequency No. 3
 
 #### Trailer
 
 #### Overview
 
-<!--
-**pparocza/pparocza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### New Notations
 
-Here are some ideas to get you started:
+#### Trailer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Overview
+
+### Max for Live Generative Music Engine
+
+### Ghost in the Machine
+
+### Mid-Light
+
+#### Trailer
+
+#### Full
