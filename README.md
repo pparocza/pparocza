@@ -8,7 +8,7 @@
 - I'm proficient in a wide variety of technologies, including:
   - **Languages:** C#, Javascript, Rust, C++, Python
   - **Game Engines:** Unity, Unreal
-  - **Production Software:** MAX/MSP, Max for Live, TouchDesigner, Ableton, Reaper, ProTools, Audition, Premiere
+  - **AudioVisual Production:** MAX/MSP, Max for Live, TouchDesigner, Wwise, FMOD, Ableton, Reaper, ProTools, Audition, Premiere
   - **Version Control:** Git/Github, Perforce, Plastic
 
 # Projects
