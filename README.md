@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<video src="https://github.com/user-attachments/assets/f8dd9000-272d-4051-8afa-641bf3fb1880" width="600" controls></video>
+
 https://github.com/user-attachments/assets/f8dd9000-272d-4051-8afa-641bf3fb1880
 
 <!--
