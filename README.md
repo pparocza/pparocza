@@ -64,13 +64,13 @@ Technical Audio Design for real-time 3d VR, XR, AR, and online multiplayer exper
 
 ### Interactive Generative Audio Reels
 
-#### Max for Live Generative Music Engine Reel
+### Max for Live Generative Music Engine Reel
 
-#### Foxconn Frequency No. 3 Reels
+### Foxconn Frequency No. 3 Reels
 
-##### Trailer
+#### Trailer
 
-##### Overview
+#### Overview
 
 <!--
 **pparocza/pparocza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
