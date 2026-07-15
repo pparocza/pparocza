@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+https://github.com/user-attachments/assets/f8dd9000-272d-4051-8afa-641bf3fb1880
+
 <!--
 **pparocza/pparocza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
