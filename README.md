@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<video src="https://www.youtube.com/watch?v=xUYmG82TIu4" width="200" controls></video>
-
-https://github.com/user-attachments/assets/f8dd9000-272d-4051-8afa-641bf3fb1880
+<video src="https://github.com/user-attachments/assets/f8dd9000-272d-4051-8afa-641bf3fb1880" width="200" controls></video>
 
 <!--
 **pparocza/pparocza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
