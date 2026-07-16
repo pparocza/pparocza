@@ -25,14 +25,14 @@ https://github.com/user-attachments/assets/f8dd9000-272d-4051-8afa-641bf3fb1880
 
 Technical Audio Design for VR, XR, AR, and online multiplayer experiences
 
-### [AbyssVault](https://hololabs.studio/projects/abyss-vault/)
+### AbyssVault
 - VRLBE game released on Meta Quest, PICO, and HTC Vive headsets
 - Technical Audio Design, Audio Design, and Interactive Music System
+- [Website](https://hololabs.studio/projects/abyss-vault/)
 
 ### AudioAsset
 - Unity package for audio design
 - [Demo Video](#Audio-Asset-Reel-1)
-- [Repo](https://github.com/pparocza/AudioAsset)
 
 ### Stack
 C#, C++, Python, Unity, Unreal, Wwise, FMOD
