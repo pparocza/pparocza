@@ -40,10 +40,14 @@ C#, C++, Python, Unity, Unreal, Wwise, FMOD
 
 ## Interactive and Generative Audio
 
-- [Foxconn Frequency No. 3](#Foxconn-Frequency-No.-3-1)
-- [New Notations](#New-Notations-1)
-- [Max for Live Generative Music Engine](#Max-for-Live-Generative-Music-Engine-1)
-- [Ghost in the Machine](#Ghost-In-The-Machine-1)
+- [Foxconn Frequency No. 3](#Foxconn-Frequency-No.-3)
+  - Interactive generative music system built in Max for Live, integrated with TouchDesigner 
+- [New Notations](#New-Notations)
+  - Interactive generartive digital synthesizers built in TouchDesigner
+- [Max for Live Generative Music Engine](#Max-for-Live-Generative-Music-Engine)
+  - Live performance generative music engine built in Max for Live
+- [Ghost in the Machine](#Ghost-In-The-Machine)
+  - Interactive generative digital synthesizers controlled via motion-tracking (Kinect) built in MAX/MSP 
   
 ### Stack
 TouchDesigner, Python, MAX/MSP, Max for Live
