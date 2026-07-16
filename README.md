@@ -60,15 +60,15 @@ https://github.com/user-attachments/assets/f8dd9000-272d-4051-8afa-641bf3fb1880
 
 ### Foxconn Frequency No. 3
 
-#### Trailer
+https://github.com/user-attachments/assets/19ce0763-c72c-47ee-a57d-16beef05f5cf
 
-#### Overview
+[Technical Overview]
 
 ### New Notations
 
-#### Trailer
+https://github.com/user-attachments/assets/8a80ce5a-1b49-48bc-adb1-a349353c2d5f
 
-#### Overview
+[Technical Overview](
 
 ### Max for Live Generative Music Engine
 
