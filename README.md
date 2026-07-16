@@ -67,7 +67,7 @@ TouchDesigner, Python, MAX/MSP, Max for Live
 
 ### Foxconn Frequency
 
-https://github.com/user-attachments/assets/19ce0763-c72c-47ee-a57d-16beef05f5cf
+https://github.com/user-attachments/assets/06664892-2f8d-4f63-bd68-41432879c048
 
 [Technical Overview]
 
