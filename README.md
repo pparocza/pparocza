@@ -46,36 +46,35 @@ C#, C++, Python, Unity, Unreal, Wwise, FMOD
 - [Max for Live Generative Music Engine](#Max-for-Live-Generative-Music-Engine)
   - Live performance generative music engine built in Max for Live
 - [Ghost in the Machine](#Ghost-In-The-Machine)
-  - Interactive generative digital synthesizers controlled via motion-tracking (Kinect) built in MAX/MSP 
+  - Interactive generative digital synthesizers controlled via motion-tracking (Kinect) built in MAX/MSP
   
 ### Stack
 TouchDesigner, Python, MAX/MSP, Max for Live
 
 ### Other
 
-- [Netronome](https://github.com/pparocza/Netronome)
+- [Netronome]
   - Suite of audio tools for coordinating musical performances over networks of arbitrarily high latency
-  - Stack: Ableton Live/Max For Live, JackTrip, Jack Audio Router, Javascript 
-- [mid-light]
+  - Stack: Ableton Live/Max For Live, JackTrip, Jack Audio Router, Javascript
+  - [Repo](https://github.com/pparocza/Netronome)
+- mid-light
   - Sound design and music
+  - [Trailer](https://youtu.be/-7GxsN795LY)
+  - [Full](https://youtu.be/5WyQGBMErwI)
 
-# Video Demos
-
-### Infinite Sibling
-
-### Audio Asset
+# Video
 
 ### Foxconn Frequency
 
-https://github.com/user-attachments/assets/9522b517-b795-4750-b446-bfe3f1f0b1bd
+[Technical Overview]()
 
-[Technical Overview]
+https://github.com/user-attachments/assets/9522b517-b795-4750-b446-bfe3f1f0b1bd
 
 ### New Notations
 
-https://github.com/user-attachments/assets/8a80ce5a-1b49-48bc-adb1-a349353c2d5f
+[Technical Overview]()
 
-[Technical Overview](
+https://github.com/user-attachments/assets/8a80ce5a-1b49-48bc-adb1-a349353c2d5f
 
 ### Max for Live Generative Music Engine
 
@@ -83,8 +82,5 @@ https://github.com/user-attachments/assets/da1476f1-8236-4f9c-9b91-b4e74f7336ee
 
 ### Ghost in the Machine
 
-### Mid-Light
+[Video Demo](https://youtu.be/njcEonOWgeU)
 
-#### Trailer
-
-#### Full
