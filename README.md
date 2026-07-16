@@ -67,13 +67,13 @@ TouchDesigner, Python, MAX/MSP, Max for Live
 
 ### Foxconn Frequency
 
-[Technical Overview]()
+[Technical Overview](https://drive.google.com/file/d/1hw1VSciS0L7GRHGQg27ClCsw92IVLuOC/view?usp=sharing)
 
 https://github.com/user-attachments/assets/9522b517-b795-4750-b446-bfe3f1f0b1bd
 
 ### New Notations
 
-[Technical Overview]()
+[Technical Overview](https://drive.google.com/file/d/1q_nw7sGbTNDtwIjjALJbvO_wZiY-2Ntp/view?usp=sharing)
 
 https://github.com/user-attachments/assets/8a80ce5a-1b49-48bc-adb1-a349353c2d5f
 
