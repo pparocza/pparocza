@@ -79,6 +79,8 @@ https://github.com/user-attachments/assets/8a80ce5a-1b49-48bc-adb1-a349353c2d5f
 
 ### Max for Live Generative Music Engine
 
+https://github.com/user-attachments/assets/da1476f1-8236-4f9c-9b91-b4e74f7336ee
+
 ### Ghost in the Machine
 
 ### Mid-Light
