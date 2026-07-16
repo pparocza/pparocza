@@ -39,7 +39,7 @@ C#, C++, Python, Unity, Unreal, Wwise, FMOD
 
 ## Interactive and Generative Audio
 
-- [Foxconn Frequency No. 3](#Foxconn-Frequency-No.-3-0)
+- [Foxconn Frequency](#Foxconn-Frequency)
   - Interactive generative music system built in Max for Live, integrated with TouchDesigner 
 - [New Notations](#New-Notations)
   - Interactive generartive digital synthesizers built in TouchDesigner
@@ -65,7 +65,7 @@ TouchDesigner, Python, MAX/MSP, Max for Live
 
 ### Audio Asset
 
-### Foxconn Frequency No. 3
+### Foxconn Frequency
 
 https://github.com/user-attachments/assets/19ce0763-c72c-47ee-a57d-16beef05f5cf
 
