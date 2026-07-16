@@ -32,7 +32,7 @@ Technical Audio Design for VR, XR, AR, and online multiplayer experiences
 
 ### AudioAsset
 - Unity package for audio design
-- [Demo Video](#Audio-Asset-Reel-1)
+- [Repo](https://github.com/pparocza/AudioAsset)
 
 ### Stack
 C#, C++, Python, Unity, Unreal, Wwise, FMOD
