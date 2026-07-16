@@ -17,7 +17,7 @@
 
 Node package of custom audio tools built with the Web Audio API
 - [Repo](https://github.com/pparocza/infinite_sibling)
-- **Stack:** Javascript, Rust, WASM, Web Audio API, Three.js
+- Stack: Javascript, Rust, WASM, Web Audio API, Three.js
 
 https://github.com/user-attachments/assets/f8dd9000-272d-4051-8afa-641bf3fb1880
 
