@@ -15,19 +15,25 @@
 
 ## Infinite Sibling
 
-Node package of custom audio tools built with the Web Audio API ([Video Demo](#Infinite-Sibling-1), [Repo](https://github.com/pparocza/infinite_sibling))
+Node package of custom audio tools built with the Web Audio API
+- [Demo Video](#Infinite-Sibling-1)
+- [Repo](https://github.com/pparocza/infinite_sibling)
 
-### Stack
+### Stack 
 Javascript, Rust, WASM, Web Audio API, Three.js
 
 ## Game Development
 
-Technical Audio Design for real-time 3d VR, XR, AR, and online multiplayer experiences
+Technical Audio Design for VR, XR, AR, and online multiplayer experiences
 
-- [AbyssVault](https://hololabs.studio/projects/abyss-vault/)
-  - VRLBE game released on Meta Quest, PICO, and HTC Vive headsets
-  - Technical Audio Design, Audio Design, and Interactive Music System
-- [AudioAsset] Unity Package [Video Demo](#Audio-Asset-Reel-1)
+### [AbyssVault](https://hololabs.studio/projects/abyss-vault/)
+- VRLBE game released on Meta Quest, PICO, and HTC Vive headsets
+- Technical Audio Design, Audio Design, and Interactive Music System
+
+### AudioAsset
+- Unity package for audio design
+- [Demo Video](#Audio-Asset-Reel-1)
+- [Repo](https://github.com/pparocza/AudioAsset)
 
 ### Stack
 C#, C++, Python, Unity, Unreal, Wwise, FMOD
