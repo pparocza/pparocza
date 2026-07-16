@@ -63,8 +63,7 @@ TouchDesigner, Python, MAX/MSP, Max for Live
   - [Trailer](https://youtu.be/-7GxsN795LY)
   - [Full](https://youtu.be/5WyQGBMErwI)
 
-<details>
-<summary>Video</summary>
+# Video
 
 ### Foxconn Frequency
 
@@ -85,6 +84,4 @@ https://github.com/user-attachments/assets/da1476f1-8236-4f9c-9b91-b4e74f7336ee
 ### Ghost in the Machine
 
 [Video Demo](https://youtu.be/njcEonOWgeU)
-
-</details>
 
