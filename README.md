@@ -17,6 +17,7 @@
 
 Node package of custom audio tools built with the Web Audio API
 - [Repo](https://github.com/pparocza/infinite_sibling)
+- [Live](https://pparocza.github.io/siblings/)
 - Stack: Javascript, Rust, WASM, Web Audio API, Three.js
 
 https://github.com/user-attachments/assets/f8dd9000-272d-4051-8afa-641bf3fb1880
@@ -51,13 +52,13 @@ C#, C++, Python, Unity, Unreal, Wwise, FMOD
 ### Stack
 TouchDesigner, Python, MAX/MSP, Max for Live
 
-### Other
+## Other
 
-- [Netronome]
+### Netronome
   - Suite of audio tools for coordinating musical performances over networks of arbitrarily high latency
   - Stack: Ableton Live/Max For Live, JackTrip, Jack Audio Router, Javascript
   - [Repo](https://github.com/pparocza/Netronome)
-- mid-light
+### mid-light
   - Sound design and music
   - [Trailer](https://youtu.be/-7GxsN795LY)
   - [Full](https://youtu.be/5WyQGBMErwI)
