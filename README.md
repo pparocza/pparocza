@@ -43,7 +43,7 @@ C#, C++, Python, Unity, Unreal, Wwise, FMOD
 - [Foxconn Frequency](#Foxconn-Frequency)
   - Interactive generative music system built in Max for Live, integrated with TouchDesigner 
 - [New Notations](#New-Notations)
-  - Interactive generartive digital synthesizers built in TouchDesigner
+  - Interactive generative digital synthesizers built in TouchDesigner
 - [Max for Live Generative Music Engine](#Max-for-Live-Generative-Music-Engine)
   - Live performance generative music engine built in Max for Live
 - [Ghost in the Machine](#Ghost-In-The-Machine)
