@@ -1,15 +1,15 @@
 # Hi there 👋, I'm Paul Paroczai
 
-## Technical Audio Designer and Audio Developer
+## Software Engineer - Interactive Systems and Audio Tools
 
-- I have 12 years experience building audio software for video games, generative and interactive audio applications, and various theatre, installation, and film projects.
+- I have 12 years experience building interactive software and tools for video games, generative and interactive audio applications, and various theatre, installation, and film projects.
 - I've worked at Unity Technologies, Hololabs Studios, Infusion Systems Ltd., and as a freelancer
 - I've presented my work at various conferences including the Web Audio Conference ([2021](https://www.youtube.com/watch?v=6RO9K2wDREE), [2025](https://drive.google.com/file/d/1cGftlIHQAPz7wzmGd9gMfAwATD_L53x4/view?usp=sharing)), AudioMostly ([2021](https://www.youtube.com/watch?v=BzwNK9uYl48)), and the International Conference for Computational Creativity ([2017](https://musicalmetacreation.org/mume2017/proceedings/Paroczai.pdf))
 - I'm proficient in a wide variety of technologies, including:
-  - **Languages:** C#, Javascript, Rust, C++, Python, Chuck
+  - **Languages:** C++, C#, Javascript, Rust, Python, Chuck, Lua
   - **Game Engines:** Unity, Unreal
-  - **AudioVisual Production:** MAX/MSP, Max for Live, TouchDesigner, Wwise, FMOD, Ableton, Reaper, ProTools, Audition, Premiere
   - **Version Control:** Git/Github, Perforce, Plastic
+  - **AudioVisual Production:** MAX/MSP, Max for Live, TouchDesigner, Wwise, FMOD, Ableton, Reaper, ProTools, Audition, Premiere
 
 # Projects
 
